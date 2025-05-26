@@ -1,4 +1,4 @@
 .vscode/
 app
 .env
-vendor/
+/vendor
